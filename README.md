@@ -32,17 +32,5 @@ This project aims to create a predictive model that helps financial institutions
 - **Scikit-learn**: Machine learning library for model building.
 - **HTML/CSS**: Front-end for the web application.
 
-## Usage
 
-1. **Training the Model**:
-    - Open `loan_approval_model_training.ipynb` in Jupyter Notebook.
-    - Follow the steps to load the data, preprocess it, and train the model.
-    - Save the trained model.
-
-2. **Running the Web Application**:
-    - After training the model, start the Flask server using the command `flask run`.
-    - Open your browser and go to `http://127.0.0.1:5000`.
-    - Submit loan applications through the web interface to get predictions.
-
-## Project Structure
 
